@@ -8,6 +8,9 @@ int main() {
     cout << "Their sum is " << a + b << endl;
     cout << "Their difference is "<< a - b << endl;
 
+    // Changes by Rishaan
+    cout <<"Their product is "<<a*b<<endl;
+    cout <<"Their quotient is "<<a/b<<endl;
 
     return 0;
 }
